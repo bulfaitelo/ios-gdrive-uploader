@@ -1,0 +1,2 @@
+# ios-gdrive-uploader
+UPLOAD AUTOMÁTICO: APPLE SHORTCUTS (iOS/macOS) -> GOOGLE DRIVE
