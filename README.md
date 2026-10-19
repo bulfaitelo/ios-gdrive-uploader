@@ -32,6 +32,14 @@ Solução definitiva para enviar fotos, vídeos e documentos do iPhone/iPad ou M
 
 ---
 
+## Link para download do Shortcut:
+https://www.icloud.com/shortcuts/865e5a21709245f99a3bc47d4d67c1e0
+
+## Link do vídeo tutorial:
+https://www.youtube.com/watch?v=cs1JjonpbIM
+
+---
+
 ### 💻 Testando via Terminal (macOS / Linux)
 Caso queira testar o seu endpoint antes de montar no iPhone, rode no terminal:
 
